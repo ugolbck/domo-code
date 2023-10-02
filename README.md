@@ -17,7 +17,7 @@ Workspace setup automation to make your day easier.
 
 Main way of using it should be:
 
-`domo.py --start -f serious-project-conf.json --no-vscode api --no-run logs_redis`
+`domo start -f serious-project-conf.json --no-vscode api --no-run logs_redis`
 
 with _serious-project-config.json_ looking like:
 
