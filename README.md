@@ -1,5 +1,5 @@
 # domo-code
-Workspace setup automation to make my day easier
+Workspace setup automation to make your day easier.
 
 -------------
 
