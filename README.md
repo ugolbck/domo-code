@@ -43,7 +43,7 @@ with _serious-project-config.json_ looking like:
                 "cmd": ["docker", "logs", "-f", "--tail", "50", "api-cont"],
                 "depends": ["compose"],
                 "wait": 5,
-                "retry": 2
+                "retries": 2
             }
         }
     }
